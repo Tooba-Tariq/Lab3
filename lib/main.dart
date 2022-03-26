@@ -46,7 +46,7 @@ class MyApp extends StatelessWidget {
                           ),
                           Text(
                             "+923455667788",
-                            style: TextStyle(fontSize: 18),
+                            style: TextStyle(fontSize: 20, fontFamily: "Lato"),
                           ),
                         ],
                       ),
@@ -67,7 +67,7 @@ class MyApp extends StatelessWidget {
                           ),
                           Text(
                             "ahad@gmail.com",
-                            style: TextStyle(fontSize: 18),
+                            style: TextStyle(fontSize: 20, fontFamily: "Lato"),
                           ),
                         ],
                       ),
